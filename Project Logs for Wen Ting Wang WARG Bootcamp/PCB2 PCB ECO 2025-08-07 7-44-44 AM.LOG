@@ -1,0 +1,17 @@
+Added Component: Designator=JOUT(691137710002)
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "78871135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=JOUT-1
+Added Pin To Net: NetName=NetJout_2 Pin=JOUT-2
+Added Member To Class: ClassName=Schematic Member=Component JOUT 691137710002

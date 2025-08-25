@@ -1,0 +1,126 @@
+Added Component: Designator=Cin(CAP0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GCM21BR71E105KA56L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-4785-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=Cout(CAP0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GCM21BR71E105KA56L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-4785-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=Jin(691137710002)
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "78871135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Added Component: Designator=Jout(691137710002)
+Add component (AddParameter): Name = "Contact Material"; Value = "Nickel, Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "120°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-30°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "78871135"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Non-Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Added Component: Designator=LED(FP-LTST-C190GKT-MFG)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dominant Wavelength"; Value = "569nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Current"; Value = "30mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward Voltage"; Value = "2.1V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Illumination Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Colorless"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Clear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Luminous Intensity"; Value = "6mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of LEDs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reverse Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "130°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength"; Value = "565nm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RNCP0603FTD10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RNCP0603FTD10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RNCP0603FTD10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RNCP0603FTD10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RNCP0603FTD10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RNCP0603FTD10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1kO"; VariantName = "[No Variations]"
+Added Component: Designator=U1(FP-ams1117-IPC_C)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cin-1
+Added Pin To Net: NetName=GND Pin=Cout-1
+Added Pin To Net: NetName=GND Pin=Jin-1
+Added Pin To Net: NetName=GND Pin=LED-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCin_2 Pin=Cin-2
+Added Pin To Net: NetName=NetCin_2 Pin=Jin-2
+Added Pin To Net: NetName=NetCin_2 Pin=U1-3
+Added Net: Name=NetCin_2
+Added Pin To Net: NetName=NetCout_2 Pin=Cout-2
+Added Pin To Net: NetName=NetCout_2 Pin=Jout-1
+Added Pin To Net: NetName=NetCout_2 Pin=R1-2
+Added Pin To Net: NetName=NetCout_2 Pin=U1-2
+Added Net: Name=NetCout_2
+Added Pin To Net: NetName=NetJout_2 Pin=Jout-2
+Added Pin To Net: NetName=NetJout_2 Pin=R3-2
+Added Net: Name=NetJout_2
+Added Pin To Net: NetName=NetLED_2 Pin=LED-2
+Added Pin To Net: NetName=NetLED_2 Pin=R3-1
+Added Net: Name=NetLED_2
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Class: Name=Schematic
+Added Rule: Name=Schematic Supply Nets

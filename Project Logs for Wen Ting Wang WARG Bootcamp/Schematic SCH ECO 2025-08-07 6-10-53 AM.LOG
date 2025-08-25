@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=Cin
+Change Component Designator: OldDesignator=C2 NewDesignator=Cout
+Change Pin Designator/Name:  Old Designator=Jin-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=Jin-2 Old Name=2 New Designator =1 New Name=1

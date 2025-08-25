@@ -1,0 +1,47 @@
+Added Component: Designator=Cin(CAP0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GCM21BR71E105KA56L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-4785-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=Cout(CAP0805)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "GCM21BR71E105KA56L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-4785-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RNCP0603FTD10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RNCP0603FTD10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RNCP0603FTD10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RNCP0603FTD10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10kO"; VariantName = "[No Variations]"
+Added Component: Designator=U1(FP-ams1117-IPC_C)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cin-1
+Added Pin To Net: NetName=GND Pin=Cout-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-1
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=Vin Pin=Cin-2
+Added Pin To Net: NetName=Vin Pin=U1-3
+Added Net: Name=Vin
+Added Pin To Net: NetName=Vout Pin=Cout-2
+Added Pin To Net: NetName=Vout Pin=R1-2
+Added Pin To Net: NetName=Vout Pin=U1-2
+Added Net: Name=Vout
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets

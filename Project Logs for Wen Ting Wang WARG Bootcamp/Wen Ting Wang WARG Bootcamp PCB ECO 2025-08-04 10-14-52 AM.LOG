@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetJout_2 Pin=LED-2
+Added Component: Designator=R3(RES0603)
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "RNCP0603FTD10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RNCP0603FTD10K0CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1kO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJout_2 Pin=R3-2
+Added Pin To Net: NetName=NetLED_2 Pin=LED-2
+Added Pin To Net: NetName=NetLED_2 Pin=R3-1
+Added Net: Name=NetLED_2
+Added Member To Class: ClassName=Sheet1 Member=Component R3 RNCP0603FTD10K0
